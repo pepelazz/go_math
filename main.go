@@ -12,6 +12,6 @@ func Div(a, b int) int {
 	return a/b
 }
 
-func Method1() string {
-	return "method 1"
+func CheckVersion() string {
+	return "go_math tag 1.0.5"
 }
