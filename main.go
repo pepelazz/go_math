@@ -13,5 +13,5 @@ func Div(a, b int) int {
 }
 
 func Method1() string {
-	returtn "method 1"
+	return "method 1"
 }
