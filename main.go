@@ -13,5 +13,5 @@ func Div(a, b int) int {
 }
 
 func CheckVersion() string {
-	return "go_math tag 1.0.5"
+	return "go_math tag 1.0.6"
 }
