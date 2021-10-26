@@ -11,3 +11,7 @@ func Sub(a, b int) int {
 func Div(a, b int) int {
 	return a/b
 }
+
+func Method1() string {
+	returtn "method 1"
+}
